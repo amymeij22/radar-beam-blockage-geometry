@@ -12,10 +12,9 @@ Notebook ini menghitung sudut halangan (obstruction angle) bangunan terhadap rad
 
 ```
 ├── preliminary_geometry_blockage_notebook.ipynb   # Notebook utama
-├── scope_of_research.md                           # Source-of-truth data & batasan
 ├── data/
 │   └── Radar_Building_Distance_Measurement_Layout.png
-└── outputs/                                       # Generated (gitignore-able)
+└── outputs/                                       
     ├── figures/
     │   ├── fig1_measurement_layout.png
     │   ├── fig2_side_view_obstruction.png
